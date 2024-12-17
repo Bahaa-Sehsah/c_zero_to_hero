@@ -1,0 +1,1 @@
+Learn the C programming language from the ground up! This course is designed to take you from no programming experience to becoming a confident C programmer. You’ll understand the fundamentals, build practical applications, and explore advanced concepts in a hands-on and engaging way.
